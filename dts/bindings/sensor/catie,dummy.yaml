@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 description: |
-    CATIE dummy TYPE sensor
+    CATIE dummy sensor
 
 compatible: "catie,dummy"
 

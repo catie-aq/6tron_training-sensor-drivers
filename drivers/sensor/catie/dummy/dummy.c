@@ -34,7 +34,7 @@ static int dummy_channel_get(const struct device *dev, enum sensor_channel chan,
 	// TODO: Update val with the sensor value
 	val->val1 = 0;
 	val->val2 = 0;
-
+	
 	return 0;
 }
 
