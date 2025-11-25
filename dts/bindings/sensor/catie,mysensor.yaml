@@ -2,8 +2,8 @@
 # SPDX-License-Identifier: Apache-2.0
 
 description: |
-    CATIE dummy sensor
+    CATIE mysensor TYPE sensor
 
-compatible: "catie,dummy"
+compatible: "catie,mysensor"
 
 include: [sensor-device.yaml]

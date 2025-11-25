@@ -1,0 +1,9 @@
+# Copyright (c) 2025 CATIE
+# SPDX-License-Identifier: Apache-2.0
+
+menuconfig MYSENSOR
+    bool "CATIE mysensor TYPE sensor"
+    default y
+    depends on DT_HAS_CATIE_MYSENSOR_ENABLED
+    help
+      Enable driver for CATIE mysensor TYPE sensor.

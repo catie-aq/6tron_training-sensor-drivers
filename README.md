@@ -1,3 +1,3 @@
-# CATIE dummy Sensor Driver
+# CATIE mysensor Sensor Driver
 
-CATIE dummy TYPE sensor driver for Zephyr OS.
+CATIE mysensor TYPE sensor driver for Zephyr OS.
