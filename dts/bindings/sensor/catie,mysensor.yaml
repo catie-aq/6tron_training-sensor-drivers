@@ -6,4 +6,4 @@ description: |
 
 compatible: "catie,mysensor"
 
-include: [sensor-device.yaml]
+include: [sensor-device.yaml, i2c-device.yaml]
